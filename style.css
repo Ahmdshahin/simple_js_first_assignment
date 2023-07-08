@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.container
+{
+
+  background-color: bisque;
+  width: 100%;
+  height:100vh;
+}
+
+h2{
+font-size: 10rem;
+text-align: center;
+  }
+
+
+  h4{
+    font-size: 3rem;
+    text-align: center;
+
+    border: 2px solid red;
+height: 50%;
+  }
+
+
+.res{
+background-color: black;
+border: 2px solid red;
+font-size: 5rem;
+color: white;
+text-align: center;
+}
+  
